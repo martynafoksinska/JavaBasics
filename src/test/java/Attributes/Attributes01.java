@@ -1,6 +1,6 @@
-package OOP;
+package Attributes;
 
-public class OOP01 {
+public class Attributes01 {
 
     public static void main(String[] args) {
         AccessModifier testAttribute = new AccessModifier();

@@ -1,4 +1,4 @@
-package OOP;
+package Attributes;
 
 public class Person {
     public String name = "Jan";

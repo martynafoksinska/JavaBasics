@@ -1,7 +1,5 @@
 package Classes;
 
-import OOP.AccessModifier;
-
 public class BankAccount02 {
     public static void main(String[] args) {
         BankAccount bankAccount = new BankAccount();

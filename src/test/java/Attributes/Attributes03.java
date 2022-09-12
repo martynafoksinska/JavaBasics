@@ -1,6 +1,6 @@
-package OOP;
+package Attributes;
 
-public class OOP03 {
+public class Attributes03 {
 
     public static void main(String[] args) {
         Person person = new Person();
