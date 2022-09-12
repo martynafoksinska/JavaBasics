@@ -37,6 +37,6 @@ public class BankAccount {
     }
 
     public String toString() {
-        return "Stan konta nr: " + this.number + "wynosi: " + this.cash;
+        return "Stan konta nr: " + this.number + " wynosi: " + this.cash;
     }
 }
